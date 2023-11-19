@@ -1,3 +1,3 @@
-module go-with-tests
+module github.com/felipelaraujo/go-with-tests
 
 go 1.21.4
